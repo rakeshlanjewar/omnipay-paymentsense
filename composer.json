@@ -1,5 +1,5 @@
 {
-    "name": "digitickets/omnipay-paymentsense",
+    "name": "brendanwex/omnipay-paymentsense",
     "type": "library",
     "description": "PaymentSense driver for the Omnipay payment processing library",
     "keywords": [
@@ -12,7 +12,7 @@
         "payment",
         "driver"
     ],
-    "homepage": "https://github.com/digitickets/omnipay-paymentsense",
+    "homepage": "https://github.com/brendanwex/omnipay-paymentsense",
     "license": "MIT",
     "authors": [
         {
@@ -24,7 +24,7 @@
         "psr-4": { "Coatesap\\PaymentSense\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "2.*"
+        "omnipay/common": "3.*"
     },
     "require-dev": {
         "guzzle/plugin-mock": "~3.1",
